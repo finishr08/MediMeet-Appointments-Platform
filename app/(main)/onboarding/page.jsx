@@ -14,18 +14,16 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
+import useFetch from "@/hooks/use-fetch";
 import { useForm } from "react-hook-form";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import useFetch from "@/hooks/use-fetch.js";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-
 import { Button } from "@/components/ui/button";
 import { doctorFormSchema } from "@/lib/schema";
 import { SPECIALTIES } from "@/lib/specialities";
 import { setUserRole } from "@/actions/onboarding";
-
 import { Textarea } from "@/components/ui/textarea";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { User, Stethoscope, Loader2 } from "lucide-react";
