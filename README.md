@@ -20,6 +20,7 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Screenshots](#screenshots)
+5. [References](#references)
 
 ---
 
@@ -77,5 +78,16 @@ The platform comes with **role-based authentication**, an **admin dashboard**, a
 ## 📸 Screenshots <a id="screenshots"></a>
 
 ![Home](public/1.png)
+
+---
+
+## 📚 References <a id="references"></a>
+
+- **GitHub Repo:** [https://github.com/finishr08/MediMeet-...](https://github.com/finishr08/MediMeet-Appointments-Platform) ⭐
+- **Tailwind CSS:** [https://tailwindcss.com/](https://tailwindcss.com/)
+- **Prisma ORM:** [https://www.prisma.io/](https://www.prisma.io/)
+- **Next.js 15:** [https://nextjs.org/](https://nextjs.org/)
+- **Neon Database:** [https://neon.tech/](https://neon.tech/)
+- **Vonage:** [https://developer.vonage.com/](https://developer.vonage.com/en/home)
 
 ---
